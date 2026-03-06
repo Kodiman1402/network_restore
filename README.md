@@ -24,9 +24,6 @@ Das Script startet dazu eine erhöhte Eingabeaufforderung (UAC-Prompt) und führ
 
 ## Installation
 
-### Variante A: Repo klonen
-
-```bat
 git clone https://github.com/Kodiman1402/network_restore.git
 cd network_restore
 Variante B: Download als ZIP
@@ -44,3 +41,4 @@ Telegram: https://t.me/Kodiman
 YouTube: https://www.youtube.com/@Kodiman_Himself
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4FRK7U)
+
